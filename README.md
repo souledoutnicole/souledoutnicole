@@ -1,7 +1,7 @@
 <!-- # 💫 souledoutnicole -->
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/180138845?s=400&u=28e3b1271bcc7f7d83363c86e424a079f1994281&v=4" alt="souledoutnicole pfp" style="border-radius: 50%; width: 200px; height: 200px;">
+  <img src="https://avatars.githubusercontent.com/u/180138845?s=400&u=28e3b1271bcc7f7d83363c86e424a079f1994281&v=4" alt="souledoutnicole pfp" style="border-radius: 100%; width: 200px; height: 200px;">
 </p>
 <!-- https://primer.style/octicons -->
 <!-- about me -->
