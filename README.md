@@ -72,7 +72,7 @@ Hi I'm Nicole! A backend developer turning full stack, learning and growing ever
 ![](https://github-readme-stats.vercel.app/api?username=SOULEDOUTNICOLE&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/souledoutnicole/souledoutnicole/blob/output/github-snake-dark.svg)
 
 
 <!-- MIDNIGHT PURPLE FOR GITHUB STATS -->
