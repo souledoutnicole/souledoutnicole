@@ -90,3 +90,19 @@ Hi I'm Nicole! A backend developer turning full stack, learning and growing ever
 <!-- snake game -->
 
 ![snake gif](https://github.com/souledoutnicole/souledoutnicole/blob/output/github-snake-dark.svg)
+
+<!--  -->
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=SOULEDOUTNICOLE&theme=midnight-purple&hide_border=false" />
+</p>
+
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=SOULEDOUTNICOLE&icon=0&color=0" />
+  </a>
+</p>
+
+<!-- snake game -->
+<p align="center">
+  <img src="https://github.com/souledoutnicole/souledoutnicole/blob/output/github-snake-dark.svg" alt="snake gif"/>
+</p>
