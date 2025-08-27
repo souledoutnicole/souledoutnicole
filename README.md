@@ -51,9 +51,9 @@ Hi I'm Nicole! A backend developer turning full stack, learning and growing ever
 
 ## 🚀 Featured Projects
 
-<div style="text-align: left;">
-  <img 
-    src="https://camo.githubusercontent.com/87652d47875a130f008c83cf47710d0df08a69d356ed4c24dfe63cc56178fd0d/68747470733a2f2f76696f7269747967726f75702e67616c6c65727963646e2e76736173736574732e696f2f657874656e73696f6e732f76696f7269747967726f75702f666976656d2d646576656c6f706d656e742f312e302e372f313732303930393336323934312f4d6963726f736f66742e56697375616c53747564696f2e53657276696365732e49636f6e732e44656661756c74" 
+<!-- <div style="text-align: left;">
+  <img
+    src="https://camo.githubusercontent.com/87652d47875a130f008c83cf47710d0df08a69d356ed4c24dfe63cc56178fd0d/68747470733a2f2f76696f7269747967726f75702e67616c6c65727963646e2e76736173736574732e696f2f657874656e73696f6e732f76696f7269747967726f75702f666976656d2d646576656c6f706d656e742f312e302e372f313732303930393336323934312f4d6963726f736f66742e56697375616c53747564696f2e53657276696365732e49636f6e732e44656661756c74"
     style="border-radius: 0%; width: 200px; height: 200px;"
     alt="FiveM Icon"
   >
@@ -62,10 +62,27 @@ Hi I'm Nicole! A backend developer turning full stack, learning and growing ever
       <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Tech Discord">
     </a>
     <p style="margin-top: 8px; font-size: 14px; color: #ff0000ff;">
-      Join & make a ticket for support and updates. 
+      Join & make a ticket for support and updates.
     </p>
   </div>
-</div>
+</div> -->
+
+<p align="center">
+  <img 
+    src="https://camo.githubusercontent.com/87652d47875a130f008c83cf47710d0df08a69d356ed4c24dfe63cc56178fd0d/68747470733a2f2f76696f7269747967726f75702e67616c6c65727963646e2e76736173736574732e696f2f657874656e73696f6e732f76696f7269747967726f75702f666976656d2d646576656c6f706d656e742f312e302e372f313732303930393336323934312f4d6963726f736f66742e56697375616c53747564696f2e53657276696365732e49636f6e732e44656661756c74" 
+    width="200" height="200" alt="FiveM Icon"
+  />
+</p>
+
+<p align="center">
+  <a href="https://discord.gg/DuJPUDqCMQ">
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Tech Discord">
+  </a>
+</p>
+
+<p align="center" style="color:#ff0000; font-size:14px;">
+  Join & make a ticket for support and updates.
+</p>
 
 <!-- MIDNIGHT PURPLE FOR GITHUB STATS -->
 
@@ -83,23 +100,8 @@ Hi I'm Nicole! A backend developer turning full stack, learning and growing ever
 
 # 📊 Stats:
 
-![](https://nirzak-streak-stats.vercel.app/?user=SOULEDOUTNICOLE&theme=midnight-purple&hide_border=false)
-
-[![](https://visitcount.itsvg.in/api?id=SOULEDOUTNICOLE&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- snake game -->
-
-![snake gif](https://github.com/souledoutnicole/souledoutnicole/blob/output/github-snake-dark.svg)
-
-<!--  -->
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=SOULEDOUTNICOLE&theme=midnight-purple&hide_border=false" />
-</p>
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=SOULEDOUTNICOLE&icon=0&color=0" />
-  </a>
 </p>
 
 <!-- snake game -->
