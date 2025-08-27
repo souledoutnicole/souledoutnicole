@@ -19,12 +19,12 @@ Hi I'm Nicole! A backend developer turning full stack, learning and growing ever
 
 🌻 I'm currently working on brushing up my skills in tech.<br>✨ Ask me about some cool music recommendations!<br>🌱 Fun Fact: I'm vegan
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"></p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"></p> -->
 
-# 🌐 Socials
+## 🌐 Socials
 
 <p align="center">
-  <<a href="https://discord.gg/DuJPUDqCMQ">
+  <a href="https://discord.gg/DuJPUDqCMQ">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord"/>
   </a>
 
@@ -36,7 +36,7 @@ Hi I'm Nicole! A backend developer turning full stack, learning and growing ever
   </a>
 </p>
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
 <p align="center">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
@@ -52,6 +52,7 @@ Hi I'm Nicole! A backend developer turning full stack, learning and growing ever
   <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"/>
   <!-- Add Python, JavaScript, Figma -->
 </p>
+
 ## 🚀 Featured Projects
 
 <p align="center">
