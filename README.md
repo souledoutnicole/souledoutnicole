@@ -69,12 +69,12 @@ Hi I'm Nicole! A backend developer turning full stack, learning and growing ever
 
 # 📊 Stats:
 
-<div style="align:center;">
+<div align= "center">
 ![](https://github-readme-stats.vercel.app/api?username=SOULEDOUTNICOLE&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
 </div>
 
 <!-- snake game -->
-<div style="align:center;">
+<div align= "center">
 ![snake gif](https://github.com/souledoutnicole/souledoutnicole/blob/output/github-snake-dark.svg)
 </div>
 
