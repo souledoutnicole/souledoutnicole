@@ -68,11 +68,9 @@ Hi I'm Nicole! A backend developer turning full stack, learning and growing ever
 <!-- ## 🏆 GitHub Trophies -->
 <!-- ![](https://github-profile-trophy.vercel.app/?username=SOULEDOUTNICOLE&theme=midnight-purple&no-frame=false&no-bg=true&margin-w=4) -->
 
----
-
 <!-- [![](https://visitcount.itsvg.in/api?id=souledoutnicole&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
-# 📊 Stats:
+## 📊 Stats:
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=SOULEDOUTNICOLE&theme=midnight-purple&hide_border=false" />
