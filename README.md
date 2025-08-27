@@ -1,7 +1,8 @@
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/180138845?s=400&u=28e3b1271bcc7f7d83363c86e424a079f1994281&v=4" 
+≠≠<p align="center">
+<img src="https://avatars.githubusercontent.com/u/180138845?s=400&u=28e3b1271bcc7f7d83363c86e424a079f1994281&v=4" 
        alt="souledoutnicole pfp" 
        style="border-radius: 50%; width: 200px; height: 200px; object-fit: cover;">
+
 </p>
 <!-- https://primer.style/octicons -->
 <!-- about me -->
@@ -16,16 +17,9 @@ Hi I'm Nicole! A backend developer turning full stack, learning and growing ever
 ## 🌐 Socials
 
 <p align="center">
-  <a href="https://discord.gg/DuJPUDqCMQ">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-
-  <a href="https://youtube.com/@itstechlady">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube"/>
-  </a>
-  <a href="mailto:itstechlady@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+  <a href="https://discord.gg/DuJPUDqCMQ"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord"/></a>
+  <a href="https://youtube.com/@itstechlady"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube"/></a>
+  <a href="mailto:itstechlady@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ## 💻 Tech Stack:
