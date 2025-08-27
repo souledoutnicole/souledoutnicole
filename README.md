@@ -1,9 +1,3 @@
-<!-- # 💫 souledoutnicole -->
-
-<!-- <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/180138845?s=400&u=28e3b1271bcc7f7d83363c86e424a079f1994281&v=4" alt="souledoutnicole pfp" style="border-radius: 50%; width: 200px; height: 200px;">
-</p>
--->
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/180138845?s=400&u=28e3b1271bcc7f7d83363c86e424a079f1994281&v=4" 
        alt="souledoutnicole pfp" 
@@ -18,8 +12,6 @@ Hi I'm Nicole! A backend developer turning full stack, learning and growing ever
 </p>
 
 🌻 I'm currently working on brushing up my skills in tech.<br>✨ Ask me about some cool music recommendations!<br>🌱 Fun Fact: I'm vegan
-
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"></p> -->
 
 ## 🌐 Socials
 
@@ -69,7 +61,7 @@ Hi I'm Nicole! A backend developer turning full stack, learning and growing ever
 </p>
 
 <p align="center" style="color:#ff0000; font-size:14px;">
-  Join & make a ticket for support and updates.
+  Join & make a ticket for support on server or tech help.
 </p>
 
 <!-- MIDNIGHT PURPLE FOR GITHUB STATS -->
