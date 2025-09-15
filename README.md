@@ -33,9 +33,6 @@ Hi I'm Nicole! A backend developer turning full stack, learning and growing ever
   <a href="mailto:itstechlady@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/>
   </a>
-<a href="https://your-website-link.com">
-  <img src="https://img.shields.io/badge/Website-%237B68EE.svg?logo=westernunion&logoColor=white" alt="Website"/>
-</a>
 </p>
 
 ## 💻 Tech Stack:
