@@ -21,16 +21,21 @@ Hi I'm Nicole! A backend developer turning full stack, learning and growing ever
 ## 🌐 Socials
 
 <p align="center">
+    <a href="https://your-website-link.com">
+    <img src="https://img.shields.io/badge/Website-%237B68EE.svg?logo=westernunion&logoColor=white" alt="Website"/>
+    </a>
+  <a href="https://discord.gg/DuJPUDqCMQ">
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord"/>
   </a>
-  <a href="https://your-website-link.com">
-    <img src="https://img.shields.io/badge/Website-%23D8BFD8.svg?logo=google-chrome&logoColor=white" alt="Website"/>
+  <a href="https://youtube.com/@itstechlady">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube"/>
   </a>
-<!--   <a href="https://your-website-link.com">
-    <img src="https://img.shields.io/badge/Website-Live-%23D8BFD8.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Link Tree"/>
-  </a> -->
-  <a href="https://discord.gg/DuJPUDqCMQ"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord"/></a>
-  <a href="https://youtube.com/@itstechlady"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube"/></a>
-  <a href="mailto:itstechlady@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:itstechlady@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+<a href="https://your-website-link.com">
+  <img src="https://img.shields.io/badge/Website-%237B68EE.svg?logo=westernunion&logoColor=white" alt="Website"/>
+</a>
 </p>
 
 ## 💻 Tech Stack:
