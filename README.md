@@ -20,20 +20,20 @@ Hi I'm Nicole! A backend developer turning full stack, learning and growing ever
 
 ## 🌐 Socials
 
-<p align="center">
-    <a href="https://your-website-link.com">
+<div align="center" style="text-decoration: none;">
+  <a href="https://your-website-link.com">
     <img src="https://img.shields.io/badge/Website-%237B68EE.svg?logo=westernunion&logoColor=white" alt="Website"/>
-    </a>
+  </a>&nbsp;
   <a href="https://discord.gg/DuJPUDqCMQ">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord"/>
-  </a>
+  </a>&nbsp;
   <a href="https://youtube.com/@itstechlady">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube"/>
-  </a>
+  </a>&nbsp;
   <a href="mailto:itstechlady@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/>
   </a>
-</p>
+</div>
 
 ## 💻 Tech Stack:
 
