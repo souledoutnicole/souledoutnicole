@@ -1,4 +1,4 @@
-≠≠<p align="center">
+<p align="center">
 <img src="https://avatars.githubusercontent.com/u/180138845?s=400&u=28e3b1271bcc7f7d83363c86e424a079f1994281&v=4" 
        alt="souledoutnicole pfp" 
        style="border-radius: 50%; width: 200px; height: 200px; object-fit: cover;">
@@ -12,11 +12,19 @@
 Hi I'm Nicole! A backend developer turning full stack, learning and growing every day in the digital world one step at a time. My passion lies in building projects from the ground up—starting with simple scripts and evolving into fully functional websites and applications. Along the way, I’ve been expanding my skills, exploring new tools, and diving deeper into the world of development. If you want a <b> FiveM developer</b>, <b>Discord Creator</b>  or need <b>Tech Help</b> <a href="mailto:itstechlady@gmail.com">contact me</a>, or join the  <a href="https://discord.gg/DuJPUDqCMQand">discord</a> and make a ticket.
 </p>
 
-🌻 I'm currently working on brushing up my skills in tech.<br>✨ Ask me about some cool music recommendations!<br>🌱 Fun Fact: I'm vegan
+🌻 I'm currently working on brushing up my skills in tech.
+<br>
+✨ Ask me about some cool music recommendations!
+<br>
+🌱 Fun Fact: I'm vegan
 
 ## 🌐 Socials
 
 <p align="center">
+  </a>
+  <a href="https://your-website-link.com">
+    <img src="https://img.shields.io/badge/Website-Live-%23D8BFD8.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Link Tree"/>
+  </a>
   <a href="https://discord.gg/DuJPUDqCMQ"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord"/></a>
   <a href="https://youtube.com/@itstechlady"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube"/></a>
   <a href="mailto:itstechlady@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/></a>
