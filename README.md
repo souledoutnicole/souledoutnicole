@@ -21,7 +21,7 @@ Hi I'm Nicole! A backend developer turning full stack, learning and growing ever
 ## 🌐 Socials
 
 <div align="center" style="text-decoration: none;">
-  <a href="https://your-website-link.com">
+  <a href="(https://souledoutnicole.github.io/LinkInBio2025/">
     <img src="https://img.shields.io/badge/Website-%237B68EE.svg?logo=westernunion&logoColor=white" alt="Website"/>
   </a>&nbsp;
   <a href="https://discord.gg/DuJPUDqCMQ">
