@@ -40,7 +40,9 @@ Hi I'm Nicole! A backend developer turning full stack, learning and growing ever
 ## 🧠 Learning:
 
 <p align="center">
-  <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"/>
+       <img src="https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+
+  <!-- <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"/> -->
   <!-- Add Python, JavaScript, Figma -->
 </p>
 
