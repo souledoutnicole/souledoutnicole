@@ -9,7 +9,7 @@
 
 <h3 align="center">Your passionate developer</h3>
 <p>
-Hi I'm Nicole! A backend developer turning full stack, learning and growing every day in the digital world one step at a time. My passion lies in building projects from the ground up—starting with simple scripts and evolving into fully functional websites and applications. Along the way, I’ve been expanding my skills, exploring new tools, and diving deeper into the world of development. If you want a <b> FiveM developer</b>, <b>Discord Creator</b>  or need <b>Tech Help</b> <a href="mailto:itstechlady@gmail.com">contact me</a>, or join the  <a href="https://discord.gg/DuJPUDqCMQand">discord</a> and make a ticket.
+Hi I'm Nicole! A backend developer turning full stack, learning and growing every day in the digital world one step at a time. My passion lies in building projects from the ground up—starting whether Im practicing what I learned or building simple projects to start off. Along the way, I’ve been expanding my skills, exploring new tools, and diving deeper into the world of development. If you want a <b> FiveM developer</b>, <b>Discord Creator</b>  or need <b>Tech Help</b> <a href="mailto:itstechlady@gmail.com">contact me</a>, or join the  <a href="https://discord.gg/DuJPUDqCMQand">discord</a> and make a ticket.
 </p>
 
 🌻 I'm currently working on brushing up my skills in tech.
