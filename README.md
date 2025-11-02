@@ -83,7 +83,3 @@ Hi I'm Nicole! A backend developer turning full stack, learning and growing ever
   <img src="https://nirzak-streak-stats.vercel.app/?user=SOULEDOUTNICOLE&theme=midnight-purple&hide_border=false" />
 </p>
 
-<!-- snake game -->
-<p align="center">
-  <img src="https://github.com/souledoutnicole/souledoutnicole/blob/output/github-snake-dark.svg" alt="snake gif"/>
-</p>
